@@ -1,4 +1,4 @@
-# Urban-Threads-D2C-Fashion-Brand---Order-Returns-Analytics
+# Urban-Threads-D2C-Fashion-Brand-Order_Returns_Analytics
 * This project studies Q4 online shopping data to understand why orders increase during Diwali and why returns go up afterwards.*
 * It is made to help the business reduce returns, improve customer experience, and make better decisions using data. *
 * The project finds important patterns like size problems, high returns from new customers, and return spikes after discount periods.*
